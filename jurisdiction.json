@@ -1,0 +1,11 @@
+{
+  "path": "ru-pri",
+  "code": "RU-PRI",
+  "name": "Primorsky Krai",
+  "level": "region",
+  "parent": "ru",
+  "repo": "https://github.com/lexifina/russia-primorsky-law",
+  "build": "catalogue: facts only, no law text (Official Internet Portal of Legal Information metadata)",
+  "language": "ru",
+  "sources": 1
+}
