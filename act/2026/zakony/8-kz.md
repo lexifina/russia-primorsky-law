@@ -1,0 +1,8 @@
+# О внесении изменения в статью 9 Закона Приморского края "О туризме и туристской деятельности на территории Приморского края"
+Document type: Закон
+Number: 8-КЗ
+Date signed: 2026-10-28
+Publication date: 2026-11-02
+Publication number: 2500202611020023
+Signing body: Приморский край
+Official publication page: http://publication.pravo.gov.ru/Document/View/2500202611020023

@@ -1,0 +1,8 @@
+# О внесении изменений в Закон Приморского края "О системе капитального ремонта многоквартирных домов в Приморском крае"
+Document type: Закон
+Number: 9-КЗ
+Date signed: 2026-10-28
+Publication date: 2026-11-02
+Publication number: 2500202611020026
+Signing body: Приморский край
+Official publication page: http://publication.pravo.gov.ru/Document/View/2500202611020026
