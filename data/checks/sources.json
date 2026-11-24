@@ -1,0 +1,29 @@
+{
+ "sources": [
+  {
+   "id": "pravo-primorsky",
+   "kind": "legislation",
+   "name": {
+    "en": "Primorsky Krai: Official Internet Portal of Legal Information (region25)",
+    "ru": "Primorsky Krai: Официальный интернет-портал правовой информации (region25)"
+   },
+   "url": "http://publication.pravo.gov.ru/documents/block/region25",
+   "reads": {
+    "en": "every page of the subject's law-type documents (metadata API), each check",
+    "ru": "все страницы списка законов субъекта (API метаданных), при каждой проверке"
+   },
+   "folders": [
+    "zakony-<year>/"
+   ],
+   "schedule": "daily",
+   "state": "watched",
+   "corpora": [
+    "russia/primorsky/acts"
+   ],
+   "interval": 3.2,
+   "repo": "russia-primorsky-law",
+   "group": "pravo",
+   "tz": "Asia/Vladivostok"
+  }
+ ]
+}
