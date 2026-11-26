@@ -1,5 +1,5 @@
 {
- "generated": "2026-11-25T07:01:55Z",
+ "generated": "2026-11-26T06:19:05Z",
  "latest": {
   "pravo-primorsky|russia/primorsky/acts": {
    "attempt": 1,
@@ -21,11 +21,11 @@
     "repo": 2564,
     "source_in_scope": 2564
    },
-   "check_id": "ru-pravo-primorsky-20261125T062611Z",
+   "check_id": "ru-pravo-primorsky-20261126T055053Z",
    "commits": null,
    "corpus": "russia/primorsky/acts",
    "error": null,
-   "finished": "2026-11-25T06:27:13Z",
+   "finished": "2026-11-26T05:51:52Z",
    "flags": [],
    "gap": 0,
    "note": "publication.pravo.gov.ru, block region25: 2564 law-type documents listed (every page read); 2564 held here; 0 published since and not yet here; facts only, no law text (the PDF texts are under /File, which robots.txt disallows)",
@@ -45,7 +45,7 @@
    },
    "snapshot": "2564 law-type documents in block region25; newest published 2026-11-02",
    "source": "pravo-primorsky",
-   "started": "2026-11-25T06:26:11Z",
+   "started": "2026-11-26T05:50:53Z",
    "unexplained": 0,
    "update": {
     "parts": []
