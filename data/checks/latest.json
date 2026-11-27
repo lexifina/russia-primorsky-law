@@ -1,5 +1,5 @@
 {
- "generated": "2026-11-26T06:19:05Z",
+ "generated": "2026-11-27T06:11:10Z",
  "latest": {
   "pravo-primorsky|russia/primorsky/acts": {
    "attempt": 1,
@@ -12,26 +12,36 @@
     "sampled": 2
    },
    "census": {
-    "checked": 2564,
+    "checked": 2569,
     "current": 2564,
     "gone": 0,
     "held": 2564,
     "newest_in_repo": "2026-11-02",
-    "pending": 0,
+    "pending": 5,
     "repo": 2564,
-    "source_in_scope": 2564
+    "source_in_scope": 2569
    },
-   "check_id": "ru-pravo-primorsky-20261126T055053Z",
-   "commits": null,
+   "check_id": "ru-pravo-primorsky-20261127T054640Z",
+   "commits": {
+    "count": 2,
+    "from": "2e7483021892d6be0837e2a67344e250da70a3e8",
+    "to": "5fd8c3aa06c970f6e4dd7e42745772721a85fb22"
+   },
    "corpus": "russia/primorsky/acts",
    "error": null,
-   "finished": "2026-11-26T05:51:52Z",
+   "finished": "2026-11-27T05:47:54Z",
    "flags": [],
    "gap": 0,
-   "note": "publication.pravo.gov.ru, block region25: 2564 law-type documents listed (every page read); 2564 held here; 0 published since and not yet here; facts only, no law text (the PDF texts are under /File, which robots.txt disallows)",
-   "outcome": "no-change",
+   "note": "publication.pravo.gov.ru, block region25: 2569 law-type documents listed (every page read); 2564 held here; 5 published since and not yet here; facts only, no law text (the PDF texts are under /File, which robots.txt disallows)",
+   "outcome": "changed",
    "published": {
-    "added": [],
+    "added": [
+     "2500202611260001",
+     "2500202611260002",
+     "2500202611260003",
+     "2500202611260004",
+     "2500202611260005"
+    ],
     "changed": [],
     "removed": []
    },
@@ -39,16 +49,32 @@
    "runner": "lawwatch russia (65e3dde363)",
    "schema": "lexifina-check/1",
    "seen": {
-    "added": [],
+    "added": [
+     "2500202611260001",
+     "2500202611260002",
+     "2500202611260003",
+     "2500202611260004",
+     "2500202611260005"
+    ],
     "changed": [],
     "removed": []
    },
-   "snapshot": "2564 law-type documents in block region25; newest published 2026-11-02",
+   "snapshot": "2569 law-type documents in block region25; newest published 2026-11-26",
    "source": "pravo-primorsky",
-   "started": "2026-11-26T05:50:53Z",
+   "started": "2026-11-27T05:46:40Z",
    "unexplained": 0,
    "update": {
-    "parts": []
+    "append": {
+     "commits": 1,
+     "corrections": null,
+     "extended_acts": [
+      "zakony-2026"
+     ],
+     "new_acts": []
+    },
+    "parts": [
+     "95-watch-20261127-001.json"
+    ]
    },
    "verify": {
     "cycle_days": 1,
@@ -57,7 +83,7 @@
     "method": "the portal's whole listing for the subject (read this check, every page) parsed by the builder (ru_catalogue.parse) and compared, publication day by publication day, with the corpus this repository is built from; each year's newest state rendered by the builder (gitlaw_common) against the files at the tip of main",
     "ok": true,
     "swept": 12,
-    "versions_checked": 401,
+    "versions_checked": 402,
     "versions_differ": 0
    }
   }
