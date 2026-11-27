@@ -3697,12 +3697,21 @@
     },
     {
      "from": "2026-11-02",
-     "to": null,
-     "status": "as captured",
+     "to": "2026-11-25",
+     "status": "replaced",
      "text_as_of": null,
      "units": 123,
      "source_url": "http://publication.pravo.gov.ru/api/Documents?Block=region25",
      "sha256": "99f0be0e811ef7725e00f9bc9b246ba05265c1d78e6d68c6fda3e06472b58115"
+    },
+    {
+     "from": "2026-11-26",
+     "to": null,
+     "status": "as captured",
+     "text_as_of": null,
+     "units": 128,
+     "source_url": "http://publication.pravo.gov.ru/api/Documents?Block=region25",
+     "sha256": "a2b6acc539b709f9ecb19bdda8f529c381a8538937b218d2ce45e38b27614901"
     }
    ]
   }

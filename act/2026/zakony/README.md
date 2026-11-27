@@ -1,6 +1,6 @@
 # Primorsky Krai: catalogue of the laws published in 2026 (facts only, no law text)
 
-Законы 2026 · 18 versions, from 2026-01-28 (latest in force: 2026-11-02) · <http://publication.pravo.gov.ru/documents/block/region25>
+Законы 2026 · 19 versions, from 2026-01-28 (latest in force: 2026-11-26) · <http://publication.pravo.gov.ru/documents/block/region25>
 
 | Provision | File | Changes | Last changed |
 | --- | --- | ---: | --- |
@@ -69,6 +69,11 @@
 | Закон № 31-КЗ | [31-kz.md](31-kz.md) | 1 | 2026-11-02 |
 | Закон № 32-КЗ | [32-kz.md](32-kz.md) | 1 | 2026-11-02 |
 | Закон № 33-КЗ | [33-kz.md](33-kz.md) | 1 | 2026-11-02 |
+| Закон № 34-КЗ | [34-kz.md](34-kz.md) | 1 | 2026-11-26 |
+| Закон № 35-КЗ | [35-kz.md](35-kz.md) | 1 | 2026-11-26 |
+| Закон № 36-КЗ | [36-kz.md](36-kz.md) | 1 | 2026-11-26 |
+| Закон № 37-КЗ | [37-kz.md](37-kz.md) | 1 | 2026-11-26 |
+| Закон № 38-КЗ | [38-kz.md](38-kz.md) | 1 | 2026-11-26 |
 | Закон № 4-КЗ | [4-kz.md](4-kz.md) | 1 | 2026-10-22 |
 | Закон № 5-КЗ | [5-kz.md](5-kz.md) | 1 | 2026-10-22 |
 | Закон № 6-КЗ | [6-kz.md](6-kz.md) | 1 | 2026-11-02 |
