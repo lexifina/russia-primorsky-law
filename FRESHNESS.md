@@ -6,8 +6,8 @@ How global-law measures how current every country is: [global-law FRESHNESS.md](
 
 ### Primorsky Krai: Official Internet Portal of Legal Information (region25) · `russia/primorsky/acts`
 
-- The official source last read and every act held here checked against it: **2026-11-27 05:47 UTC**.
-- Acts held here: 2 564; current at the source: 2 564; changed at the source since the version held here: 5; no longer at the source: 0.
+- The official source last read and every act held here checked against it: **2026-11-28 05:57 UTC**.
+- Acts held here: 2 569; current at the source: 2 569; changed at the source since the version held here: 0; no longer at the source: 0.
 - Not published: 0 (—); with no reason: 0.
 
 In detail: [monitoring/](monitoring/README.md). For programs: [data/checks/latest.json](data/checks/latest.json).
